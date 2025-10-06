@@ -266,7 +266,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.1;
+				MARKETING_VERSION = 1.3;
 				PRODUCT_BUNDLE_IDENTIFIER = com.lam.t4sksph3r3l4nd;
 				PRODUCT_NAME = "TaskSphere Land";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
@@ -301,7 +301,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.1;
+				MARKETING_VERSION = 1.3;
 				PRODUCT_BUNDLE_IDENTIFIER = com.lam.t4sksph3r3l4nd;
 				PRODUCT_NAME = "TaskSphere Land";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
